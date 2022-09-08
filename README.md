@@ -1,4 +1,4 @@
-# AzureWorkshopIntro
+# Fagdag Introduction to Azure
  
 ## NuGet-Pakker
 Microsoft.AspNetCore.Authentication.JwtBearer <br>
