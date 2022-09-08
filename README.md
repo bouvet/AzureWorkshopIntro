@@ -2,10 +2,10 @@
  
  NuGet Packages Required:
  
- Microsoft.AspNetCore.Authentication.JwtBearer
- Microsoft.Azure.Services.AppAuthentication
- Microsoft.EntityFrameworkCore
- Microsoft.EntityFrameworkCore.Design
- Microsoft.EntityFrameworkCore.SqlServer
- Microsoft.Identity.Web
- Swashbuckle.AspNetCore
+ Microsoft.AspNetCore.Authentication.JwtBearer <br>
+ Microsoft.Azure.Services.AppAuthentication <br>
+ Microsoft.EntityFrameworkCore <br>
+ Microsoft.EntityFrameworkCore.Design <br>
+ Microsoft.EntityFrameworkCore.SqlServer <br>
+ Microsoft.Identity.Web <br>
+ Swashbuckle.AspNetCore <br>
