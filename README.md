@@ -25,3 +25,10 @@ dotnet ef migrations remove <br>
 4. Lag en databasecontext
 5. Sett opp dbcontext i Program.cs
 6. Gjør en migrering mot egen database
+
+### Del 2: Endepunkter
+1. Lag et endepunkt for å legge til en ny Speaker
+2. Lag et endepunkt for å legge til en ny Workshop
+3. Lag et endepunkt for å hente ut alle Workshops
+
+### Del 3: Authentication og Authorization
