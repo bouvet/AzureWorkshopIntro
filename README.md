@@ -32,3 +32,5 @@ dotnet ef migrations remove <br>
 3. Lag et endepunkt for å hente ut alle Workshops
 
 ### Del 3: Authentication og Authorization (45m)
+
+### Del 4: Datalakes
